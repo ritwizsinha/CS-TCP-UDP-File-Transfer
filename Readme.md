@@ -4,4 +4,4 @@
 ![](./UDPFileTransferTiming.png)
 
 ## TCP File Transfer Time
-![]()
+![](./TCPTiming.png)
